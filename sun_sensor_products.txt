@@ -1,0 +1,409 @@
+{
+    "product_name": "GEN2: CubeSense Sun",
+    "product_url": "https://satsearch.co/products/cubespace-gen2-cubesense-sun",
+    "product_details": {
+        "mass": "15 g",
+        "width": "35 mm",
+        "height": "22 mm",
+        "length": "24 mm",
+        "supply voltage": "3.3 V",
+        "power consumption": "174 mW (peak)",
+        "update rate": "< 2 Hz",
+        "data interface": "CAN"
+    }
+}
+{
+    "product_name": "Redundant Cosine Sun Sensor",
+    "product_url": "https://satsearch.co/products/bradford-redundant-cosine-sun-sensor",
+    "product_details": {
+        "height": "6 mm",
+        "length": "45 mm",
+        "width": "37 mm",
+        "mass": "15\u00b12 grams (exclusive cable)",
+        "field of view": "Minimum operational FOV: 180 degrees of arc full cone angle (\u00b190\u00b0)",
+        "pointing accuracy": "accuracy typically in the order of \u00b13 degrees of arc"
+    }
+}
+{
+    "product_name": "FSS-15 Fine Sun Sensor",
+    "product_url": "https://satsearch.co/products/tensortech-fss-15-fine-sun-sensor",
+    "product_details": {
+        "sample frequency": "4 Hz",
+        "data interface": "UART",
+        "mass": "< 4 g",
+        "width": "22.00 mm",
+        "length": "15.00 mm",
+        "height": "5.26 mm",
+        "power consumption": "< 2 mA (sampling)",
+        "field of view": "\u00b160 deg (\u00b145 deg for optimal performaces)",
+        "field of view accuracy": "\u00b10.1 deg within \u00b145 deg FOV (1-sigma)"
+    }
+}
+{
+    "product_name": "Coarse Sun Sensor",
+    "product_url": "https://satsearch.co/products/bradford-coarse-sun-sensor",
+    "product_details": {
+        "height": "30 mm (excluding dimensions of extensions such as strap-on baffles, bondpin and connectors)",
+        "length": "110 mm (excluding dimensions of extensions such as strap-on baffles, bondpin and connectors)",
+        "width": "110 mm (excluding dimensions of extensions such as strap-on baffles, bondpin and connectors)",
+        "mass": "215 g (baseline with rear cover, no strap-on baffle)",
+        "field of view": "Hemispherical: can be up to \u00b190\u00b0 x \u00b190\u00b0 Range for linear output: approx. \u00b112\u00b0 x \u00b112\u00b0(values given for detector pyramid tilt angle of 22\u00b0)",
+        "accuracy on sensor boresight (after correction with ground-based data)": "Better than \u00b1 1.5\u00b0 (3 \u03c3) throughout mission lifetime. BOL at ambient temp. Accuracy will be better than \u00b11.0\u00b0 (3 \u03c3). Figures apply without albedo."
+    }
+}
+{
+    "product_name": "nanoSSOC-A60 - Analog Sun Sensor for Nanosatellites",
+    "product_url": "https://satsearch.co/products/solarmems-nano-ssoc-a60-analog-sun-sensor-for-nanosatellites",
+    "product_details": {
+        "mass": "4 g",
+        "length": "27.4 mm",
+        "width": "14 mm",
+        "height": "5.9 mm",
+        "field of view": "\u00b160 deg",
+        "accuracy (3-sigma)": "< 0.5 deg",
+        "precision": "< 0.1 deg",
+        "consumption": "< 2 mA",
+        "supply voltage": "3.3 V",
+        "operating temperature": "-30 to 85 C",
+        "radiation tolerance": "> 100 kRad (gamma)",
+        "random vibration": "14.1g @ 20-2000 Hz",
+        "shock": "3000 g @ 1-100 ms"
+    }
+}
+{
+    "product_name": "Cosine Sun Sensor",
+    "product_url": "https://satsearch.co/products/bradford-cosine-sun-sensor",
+    "product_details": {
+        "height": "14.5 mm",
+        "length": "30 mm",
+        "width": "30 mm",
+        "mass": "Exclusive cable: 24 grams With 1.5 meter of cable: 50 grams",
+        "field of view": "Minimum operational FOV: 160 degrees of arc full cone angle (\u00b180\u00b0)",
+        "pointing accuracy": "accuracy typically in the order of \u00b13 degrees of arc"
+    }
+}
+{
+    "product_name": "ACSS - Advanced Coarse Sun Sensor",
+    "product_url": "https://satsearch.co/products/solarmems-acss-advanced-coarse-sun-sensor",
+    "product_details": {
+        "mass": "40 g",
+        "length": "65 mm",
+        "width": "47 mm",
+        "height": "13 mm",
+        "field of view": "\u00b160 deg",
+        "accuracy": "< 1.0 deg (3-sigma, calibration)",
+        "precision": "< 0.05 deg",
+        "current": "3 mA",
+        "power supply": "15 to 30 V",
+        "operating temperature": "-40 to 95 C",
+        "qualification temperature": "-55 to 105 C",
+        "radiation tolerance": "200 kRad (gamma)",
+        "random vibration": "18.3 g @ 20-2000 Hz",
+        "shock": "2000 g",
+        "lifetime": "> 10 yr"
+    }
+}
+{
+    "product_name": "SSOC-A60 - Analog Sun Sensor on a Chip",
+    "product_url": "https://satsearch.co/products/solarmems-ssoc-a60-analog-sun-sensor-on-a-chip",
+    "product_details": {
+        "mass": "25 g",
+        "field of view": "\u00b160 deg",
+        "accuracy (3-sigma)": "< 0.3 deg",
+        "precision": "< 0.05 deg",
+        "average consumption": "< 2 mA (light)",
+        "supply voltage": "3.3 V",
+        "output voltage": "0 to 3.3 V",
+        "operating temperature": "-45 to 85 C",
+        "radiation tolerance": "> 100 kRad (gamma)",
+        "random vibration": "14.1g @ 20-2000 Hz",
+        "shock": "3000 g @ 1-100 ms"
+    }
+}
+{
+    "product_name": "AQUILA-D02 Sun Sensor",
+    "product_url": "https://satsearch.co/products/newspace-systems-nfss-411-fine-sun-sensor",
+    "product_details": {
+        "mass": "< 35 g",
+        "length": "34 mm",
+        "width": "40 mm",
+        "height": "20 mm",
+        "field of view": "140 deg",
+        "update rate": "5 Hz typical",
+        "field of view accuracy": "\u2264 0.1\u00b0 RMS error over 120\u00b0 FOV",
+        "power consumption": "idle: < 3mA [15mW] (bootloader mode)",
+        "operating temperature": "-25 to 70 C",
+        "mechanical vibration": "17.25 gRMS (random)",
+        "radiation tolerance": "20 krad (component level)",
+        "power supply": "5 VDC (nominal) to 50 VDC",
+        "data interface": "RS-485 UART",
+        "connector type": "9-way socket Micro-D"
+    }
+}
+{
+    "product_name": "CSS-10 Coarse Sun Sensor",
+    "product_url": "https://satsearch.co/products/tensortech-css-10-coarse-sun-sensor",
+    "product_details": {
+        "mass": "< 0.5 g",
+        "width": "20.00 mm",
+        "length": "10.00 mm",
+        "height": "5.70 mm",
+        "power consumption": "< 0.1 mA",
+        "field of view": "\u00b160 deg",
+        "radiation tolerance": "> 10 krad"
+    }
+}
+{
+    "product_name": "SSOC-D60 - Digital Sun Sensor on a Chip",
+    "product_url": "https://satsearch.co/products/solarmems-ssoc-d60-digital-sun-sensor-on-a-chip",
+    "product_details": {
+        "mass": "35 g",
+        "field of view": "\u00b160 deg",
+        "accuracy (3-sigma)": "< 0.3 deg",
+        "precision": "< 0.05 deg",
+        "average consumption": "70 mA",
+        "supply voltage": "5 V",
+        "data interface": "RS422/485",
+        "operating temperature": "-45 to 85 C",
+        "radiation tolerance": "30 kRad (gamma)",
+        "random vibration": "14.1g @ 20-2000 Hz",
+        "shock": "3000 g @ 1-100 ms"
+    }
+}
+{
+    "product_name": "nanoSSOC-D60 - Digital Sun Sensor for Nanosatellites",
+    "product_url": "https://satsearch.co/products/solarmems-nano-ssoc-d60-digital-sun-sensor-for-nanosatellites",
+    "product_details": {
+        "mass": "6.5 g",
+        "length": "43 mm",
+        "width": "14 mm",
+        "height": "5.9 mm",
+        "field of view": "\u00b160 deg",
+        "accuracy": "< 0.5 deg (3-sigma)",
+        "precision": "< 0.1 deg",
+        "consumption": "< 23 mA",
+        "supply voltage": "3.3 V",
+        "operating temperature": "-30 to 85 C",
+        "radiation tolerance": "30 kRad (gamma)",
+        "random vibration": "14.1g @ 20-2000 Hz",
+        "shock": "3000 g @ 1-100 ms"
+    }
+}
+{
+    "product_name": "Fine Sun Sensors Assembly (FSSA-110)",
+    "product_url": "https://satsearch.co/products/berlin-space-tech-fine-sun-sensors-assembly-fssa-110",
+    "product_details": {
+        "mass": "102 g \u00b1 5 g (with 3x sensors)",
+        "length": "95 mm",
+        "width": "44 mm",
+        "height": "20 mm",
+        "supply voltage": "5 V",
+        "power consumption": "185 mW",
+        "accuracy": "5 deg",
+        "update rate": "10 Hz",
+        "data interface": "RS422",
+        "operating temperature": "-15 to 40 C",
+        "radiation tolerance": "> 20 krad"
+    }
+}
+{
+    "product_name": "S3 (Smart Sun Sensor)",
+    "product_url": "https://satsearch.co/products/leonardo-finmeccanica-smart-sun-sensor",
+    "product_details": {
+        "field of view": "128 deg",
+        "field of view accuracy": "< 0.02 deg",
+        "power": "< 700 mW",
+        "voltage": "5 V",
+        "mass": "< 330 g",
+        "operating temperature": "-25 to 60 C",
+        "radiation tolerance": "100 krad",
+        "mechanical vibration": "26.8 Grms"
+    }
+}
+{
+    "product_name": "Sun Sensors for Spacecraft",
+    "product_url": "https://satsearch.co/products/opticalenergytechnologies-sun-sensors-for-spacecraft",
+    "product_details": {}
+}
+{
+    "product_name": "NXSS2v11",
+    "product_url": "https://satsearch.co/products/needronix-nxss2v11",
+    "product_details": {}
+}
+{
+    "product_name": "CGUDSS01 - Digital Sun Sensor",
+    "product_url": "https://satsearch.co/products/cgsatellite-cgudss01-digital-sun-sensor",
+    "product_details": {
+        "mass": "50 g",
+        "width": "48 mm",
+        "length": "36 mm",
+        "height": "16.9 mm",
+        "power consumption": "0.15 W",
+        "voltage": "5.2 V",
+        "theoretical field of view": "-60 to 60 deg",
+        "field of view accuracy": "< 0.5 deg",
+        "data interface": "RS422",
+        "operating temperature": "-30 to 60 C",
+        "lifetime": "5 yr"
+    }
+}
+{
+    "product_name": "Digital Sun Sensor (\u00b164\u00b0)",
+    "product_url": "https://satsearch.co/products/redwirespace-digital-sun-sensor-64",
+    "product_details": {
+        "mass": "0.25 kg (sensor)",
+        "sensor length": "81 mm",
+        "sensor width": "81 mm",
+        "sensor height": "20 mm",
+        "voltage": "28 \u00b1 7 V DC (other ranges available)",
+        "power dissipation": "0.4 W typical",
+        "field of view": "128\u00b0 x 128\u00b0 (each sensor)",
+        "transition accuracy": "\u00b10.25\u00b0",
+        "radiation tolerance": "100 krad"
+    }
+}
+{
+    "product_name": "Coarse Sun Sensor Pyramid",
+    "product_url": "https://satsearch.co/products/redwirespace-coarse-sun-sensor-pyramid",
+    "product_details": {
+        "mass": "0.13 kg",
+        "length with baffles": "89 mm",
+        "width with baffles": "89 mm",
+        "height with baffles": "43 mm",
+        "field of view": "> 2\u03c0 sr",
+        "field of view accuracy": "\u00b11\u00b0 at null (typically)",
+        "radiation tolerance": "100 krad"
+    }
+}
+{
+    "product_name": "Fine Sun Sensor (\u00b150\u00b0)",
+    "product_url": "https://satsearch.co/products/redwirespace-fine-sun-sensor-50",
+    "product_details": {
+        "field of view": "100\u00b0 X 100\u00b0 (each sensor)",
+        "field of view accuracy": "\u00b10.01\u00b0"
+    }
+}
+{
+    "product_name": "Digital Sun Sensor (\u00b132\u00b0)",
+    "product_url": "https://satsearch.co/products/redwirespace-digital-sun-sensor-32",
+    "product_details": {
+        "mass": "0.3 kg (sensor)",
+        "sensor length": "96 mm",
+        "sensor width": "94 mm",
+        "sensor height": "53 mm",
+        "voltage": "28 \u00b1 7 V DC (other ranges available)",
+        "power dissipation": "1 W typical",
+        "field of view": "32\u00b0 x 32\u00b0 (each sensor)",
+        "accuracy": "\u00b10.1\u00b0",
+        "radiation tolerance": "100 krad"
+    }
+}
+{
+    "product_name": "Coarse Analog Sun Sensor (CASS)",
+    "product_url": "https://satsearch.co/products/redwirespace-coarse-analog-sun-sensor",
+    "product_details": {
+        "mass": "45 g",
+        "length excluding connector": "51 mm",
+        "width excluding connector": "25 mm",
+        "height excluding connector": "18 mm",
+        "voltage": "none",
+        "field of view": "\u00b140\u00b0 (can be modified to meet specific fov requirements)",
+        "radiation tolerance": "100 krad"
+    }
+}
+{
+    "product_name": "Coarse Sun Sensor (Cosine Type)",
+    "product_url": "https://satsearch.co/products/redwirespace-coarse-sun-sensor-cosine-type",
+    "product_details": {
+        "mass": "10 g (nominal)",
+        "mounting flange": "2.8 cm",
+        "body": "1.9 cm",
+        "height": "1.2 cm",
+        "peak output current": "500 to 1300 \u03bcA",
+        "radiation tolerance": "> 100 krad (Si)"
+    }
+}
+{
+    "product_name": "Miniature Spinning Sun Sensor (\u00b187.5\u00b0)",
+    "product_url": "https://satsearch.co/products/redwirespace-miniature-spinning-sun-sensor",
+    "product_details": {
+        "mass": "< 0.25 kg",
+        "length": "57 mm",
+        "width": "51.5 mm",
+        "height": "51 mm",
+        "supply voltage": "12 to 15 V",
+        "power consumption": "< 0.5 W",
+        "field of view": "\u00b187.5\u00b0 (from normal to spin axis)",
+        "field of view accuracy": "\u00b10.25\u00b0",
+        "radiation tolerance": "100 krad"
+    }
+}
+{
+    "product_name": "Micro Sun Sensor",
+    "product_url": "https://satsearch.co/products/redwirespace-micro-sun-sensor",
+    "product_details": {
+        "mass": "< 2 g (w/o wires, w/glass)",
+        "length": "23 mm",
+        "width": "15.3 mm",
+        "height": "6 mm",
+        "power": "< 15 mW",
+        "supply voltage": "3.3 V",
+        "field of view": "\u00b1 85\u00b0 minimum"
+    }
+}
+{
+    "product_name": "Fine Pointing Sun Sensor",
+    "product_url": "https://satsearch.co/products/redwirespace-fine-pointing-sun-sensor",
+    "product_details": {
+        "mass": "sensor: 0.95 g (nominal)",
+        "length": "sensor: 15 mm",
+        "width": "sensor: 10 mm",
+        "height": "sensor: 7 mm",
+        "input voltage": "28 \u00b1 7 VDC (other ranges available)",
+        "field of view": "\u00b14.25\u00b0 x \u00b14.25\u00b0 (typical)",
+        "field of view accuracy": "15 to 20 arcsec (typical)",
+        "radiation tolerance": "100 krad"
+    }
+}
+{
+    "product_name": "NSS3 Sun Sensor",
+    "product_url": "https://satsearch.co/products/serenumspace-nss3-sun-sensor",
+    "product_details": {
+        "mass": "3 g",
+        "width": "20.5 mm",
+        "length": "10.5 mm",
+        "height": "4.8 mm",
+        "supply voltage": "2.7 to 3.7 V",
+        "supply current": "< 2.2 mA @ 3.3 V (active mode)",
+        "field of view": "> \u00b150 deg",
+        "pointing accuracy": "< 0.02 deg @ 1\ud835\udf0e (w/o albedo)",
+        "measurement rate": "10 measurements per second",
+        "operating temperature": "-40 \u00b0C to 85 \u00b0C (100 TVC cycles -70 \u00b0C to +110 \u00b0C)",
+        "radiation tolerance": "> 60 krad (Si)",
+        "lifetime": "2 yr"
+    }
+}
+{
+    "product_name": "Fine Spinning Sun Sensor (\u00b164\u00b0)",
+    "product_url": "https://satsearch.co/products/redwirespace-fine-spinning-sun-sensor-64",
+    "product_details": {
+        "mass": "sensor: 109 g (nominal)",
+        "length": "sensor: 66 mm",
+        "width": "sensor: 33 mm",
+        "height": "sensor: 25 mm",
+        "supply voltage": "28 \u00b1 7 VDC (other ranges available)",
+        "power dissipation": "0.4 W (typical)",
+        "field of view": "\u00b164\u00b0 fan shaped (each sensor)",
+        "field of view accuracy": "sun pulse: \u00b10.1\u00b0 at 0\u00b0",
+        "radiation tolerance": "100 krad"
+    }
+}
+{
+    "product_name": "MAUS Sun Sensor",
+    "product_url": "https://satsearch.co/products/lens-rnd-maus",
+    "product_details": {
+        "mass": "< 16 g",
+        "operating temperature": "-40 to 80 C",
+        "storage temperature": "0 to 30 C"
+    }
+}
